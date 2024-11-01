@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularISR", "CalcularISR\CalcularISR.csproj", "{93869A4E-50AD-4206-990E-957D79DEF24E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93869A4E-50AD-4206-990E-957D79DEF24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93869A4E-50AD-4206-990E-957D79DEF24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93869A4E-50AD-4206-990E-957D79DEF24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93869A4E-50AD-4206-990E-957D79DEF24E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A31505E5-65BD-40FA-8856-3732DA317A71}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnteroOPositivo", "EnteroOPositivo\EnteroOPositivo.csproj", "{3D078434-B1FA-4E25-9039-EC700AE99A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D078434-B1FA-4E25-9039-EC700AE99A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D078434-B1FA-4E25-9039-EC700AE99A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D078434-B1FA-4E25-9039-EC700AE99A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D078434-B1FA-4E25-9039-EC700AE99A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDA6CAD8-7934-4796-9C2F-4A4820A7C953}
+	EndGlobalSection
+EndGlobal

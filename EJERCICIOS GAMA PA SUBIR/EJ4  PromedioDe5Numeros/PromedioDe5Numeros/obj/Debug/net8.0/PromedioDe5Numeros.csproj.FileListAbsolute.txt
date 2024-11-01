@@ -1,0 +1,14 @@
+C:\Users\IK\source\repos\PromedioDe5Numeros\PromedioDe5Numeros\bin\Debug\net8.0\PromedioDe5Numeros.exe
+C:\Users\IK\source\repos\PromedioDe5Numeros\PromedioDe5Numeros\bin\Debug\net8.0\PromedioDe5Numeros.deps.json
+C:\Users\IK\source\repos\PromedioDe5Numeros\PromedioDe5Numeros\bin\Debug\net8.0\PromedioDe5Numeros.runtimeconfig.json
+C:\Users\IK\source\repos\PromedioDe5Numeros\PromedioDe5Numeros\bin\Debug\net8.0\PromedioDe5Numeros.dll
+C:\Users\IK\source\repos\PromedioDe5Numeros\PromedioDe5Numeros\bin\Debug\net8.0\PromedioDe5Numeros.pdb
+C:\Users\IK\source\repos\PromedioDe5Numeros\PromedioDe5Numeros\obj\Debug\net8.0\PromedioDe5Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\source\repos\PromedioDe5Numeros\PromedioDe5Numeros\obj\Debug\net8.0\PromedioDe5Numeros.AssemblyInfoInputs.cache
+C:\Users\IK\source\repos\PromedioDe5Numeros\PromedioDe5Numeros\obj\Debug\net8.0\PromedioDe5Numeros.AssemblyInfo.cs
+C:\Users\IK\source\repos\PromedioDe5Numeros\PromedioDe5Numeros\obj\Debug\net8.0\PromedioDe5Numeros.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\PromedioDe5Numeros\PromedioDe5Numeros\obj\Debug\net8.0\PromedioDe5Numeros.dll
+C:\Users\IK\source\repos\PromedioDe5Numeros\PromedioDe5Numeros\obj\Debug\net8.0\refint\PromedioDe5Numeros.dll
+C:\Users\IK\source\repos\PromedioDe5Numeros\PromedioDe5Numeros\obj\Debug\net8.0\PromedioDe5Numeros.pdb
+C:\Users\IK\source\repos\PromedioDe5Numeros\PromedioDe5Numeros\obj\Debug\net8.0\PromedioDe5Numeros.genruntimeconfig.cache
+C:\Users\IK\source\repos\PromedioDe5Numeros\PromedioDe5Numeros\obj\Debug\net8.0\ref\PromedioDe5Numeros.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CualEsMayor3Numeros/1.0.0": {
+        "runtime": {
+          "CualEsMayor3Numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CualEsMayor3Numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

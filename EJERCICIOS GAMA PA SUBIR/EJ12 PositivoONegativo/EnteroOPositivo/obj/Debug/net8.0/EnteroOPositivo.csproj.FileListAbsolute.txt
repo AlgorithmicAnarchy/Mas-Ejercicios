@@ -1,0 +1,14 @@
+C:\Users\IK\source\repos\EnteroOPositivo\EnteroOPositivo\bin\Debug\net8.0\EnteroOPositivo.exe
+C:\Users\IK\source\repos\EnteroOPositivo\EnteroOPositivo\bin\Debug\net8.0\EnteroOPositivo.deps.json
+C:\Users\IK\source\repos\EnteroOPositivo\EnteroOPositivo\bin\Debug\net8.0\EnteroOPositivo.runtimeconfig.json
+C:\Users\IK\source\repos\EnteroOPositivo\EnteroOPositivo\bin\Debug\net8.0\EnteroOPositivo.dll
+C:\Users\IK\source\repos\EnteroOPositivo\EnteroOPositivo\bin\Debug\net8.0\EnteroOPositivo.pdb
+C:\Users\IK\source\repos\EnteroOPositivo\EnteroOPositivo\obj\Debug\net8.0\EnteroOPositivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\source\repos\EnteroOPositivo\EnteroOPositivo\obj\Debug\net8.0\EnteroOPositivo.AssemblyInfoInputs.cache
+C:\Users\IK\source\repos\EnteroOPositivo\EnteroOPositivo\obj\Debug\net8.0\EnteroOPositivo.AssemblyInfo.cs
+C:\Users\IK\source\repos\EnteroOPositivo\EnteroOPositivo\obj\Debug\net8.0\EnteroOPositivo.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\EnteroOPositivo\EnteroOPositivo\obj\Debug\net8.0\EnteroOPositivo.dll
+C:\Users\IK\source\repos\EnteroOPositivo\EnteroOPositivo\obj\Debug\net8.0\refint\EnteroOPositivo.dll
+C:\Users\IK\source\repos\EnteroOPositivo\EnteroOPositivo\obj\Debug\net8.0\EnteroOPositivo.pdb
+C:\Users\IK\source\repos\EnteroOPositivo\EnteroOPositivo\obj\Debug\net8.0\EnteroOPositivo.genruntimeconfig.cache
+C:\Users\IK\source\repos\EnteroOPositivo\EnteroOPositivo\obj\Debug\net8.0\ref\EnteroOPositivo.dll

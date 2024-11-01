@@ -1,0 +1,14 @@
+C:\Users\IK\source\repos\IncentivoPorCantidadHijos\IncentivoPorCantidadHijos\bin\Debug\net8.0\IncentivoPorCantidadHijos.exe
+C:\Users\IK\source\repos\IncentivoPorCantidadHijos\IncentivoPorCantidadHijos\bin\Debug\net8.0\IncentivoPorCantidadHijos.deps.json
+C:\Users\IK\source\repos\IncentivoPorCantidadHijos\IncentivoPorCantidadHijos\bin\Debug\net8.0\IncentivoPorCantidadHijos.runtimeconfig.json
+C:\Users\IK\source\repos\IncentivoPorCantidadHijos\IncentivoPorCantidadHijos\bin\Debug\net8.0\IncentivoPorCantidadHijos.dll
+C:\Users\IK\source\repos\IncentivoPorCantidadHijos\IncentivoPorCantidadHijos\bin\Debug\net8.0\IncentivoPorCantidadHijos.pdb
+C:\Users\IK\source\repos\IncentivoPorCantidadHijos\IncentivoPorCantidadHijos\obj\Debug\net8.0\IncentivoPorCantidadHijos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\source\repos\IncentivoPorCantidadHijos\IncentivoPorCantidadHijos\obj\Debug\net8.0\IncentivoPorCantidadHijos.AssemblyInfoInputs.cache
+C:\Users\IK\source\repos\IncentivoPorCantidadHijos\IncentivoPorCantidadHijos\obj\Debug\net8.0\IncentivoPorCantidadHijos.AssemblyInfo.cs
+C:\Users\IK\source\repos\IncentivoPorCantidadHijos\IncentivoPorCantidadHijos\obj\Debug\net8.0\IncentivoPorCantidadHijos.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\IncentivoPorCantidadHijos\IncentivoPorCantidadHijos\obj\Debug\net8.0\IncentivoPorCantidadHijos.dll
+C:\Users\IK\source\repos\IncentivoPorCantidadHijos\IncentivoPorCantidadHijos\obj\Debug\net8.0\refint\IncentivoPorCantidadHijos.dll
+C:\Users\IK\source\repos\IncentivoPorCantidadHijos\IncentivoPorCantidadHijos\obj\Debug\net8.0\IncentivoPorCantidadHijos.pdb
+C:\Users\IK\source\repos\IncentivoPorCantidadHijos\IncentivoPorCantidadHijos\obj\Debug\net8.0\IncentivoPorCantidadHijos.genruntimeconfig.cache
+C:\Users\IK\source\repos\IncentivoPorCantidadHijos\IncentivoPorCantidadHijos\obj\Debug\net8.0\ref\IncentivoPorCantidadHijos.dll

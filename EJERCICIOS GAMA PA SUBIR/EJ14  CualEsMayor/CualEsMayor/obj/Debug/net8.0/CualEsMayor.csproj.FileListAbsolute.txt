@@ -1,0 +1,14 @@
+C:\Users\IK\source\repos\CualEsMayor\CualEsMayor\bin\Debug\net8.0\CualEsMayor.exe
+C:\Users\IK\source\repos\CualEsMayor\CualEsMayor\bin\Debug\net8.0\CualEsMayor.deps.json
+C:\Users\IK\source\repos\CualEsMayor\CualEsMayor\bin\Debug\net8.0\CualEsMayor.runtimeconfig.json
+C:\Users\IK\source\repos\CualEsMayor\CualEsMayor\bin\Debug\net8.0\CualEsMayor.dll
+C:\Users\IK\source\repos\CualEsMayor\CualEsMayor\bin\Debug\net8.0\CualEsMayor.pdb
+C:\Users\IK\source\repos\CualEsMayor\CualEsMayor\obj\Debug\net8.0\CualEsMayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\source\repos\CualEsMayor\CualEsMayor\obj\Debug\net8.0\CualEsMayor.AssemblyInfoInputs.cache
+C:\Users\IK\source\repos\CualEsMayor\CualEsMayor\obj\Debug\net8.0\CualEsMayor.AssemblyInfo.cs
+C:\Users\IK\source\repos\CualEsMayor\CualEsMayor\obj\Debug\net8.0\CualEsMayor.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\CualEsMayor\CualEsMayor\obj\Debug\net8.0\CualEsMayor.dll
+C:\Users\IK\source\repos\CualEsMayor\CualEsMayor\obj\Debug\net8.0\refint\CualEsMayor.dll
+C:\Users\IK\source\repos\CualEsMayor\CualEsMayor\obj\Debug\net8.0\CualEsMayor.pdb
+C:\Users\IK\source\repos\CualEsMayor\CualEsMayor\obj\Debug\net8.0\CualEsMayor.genruntimeconfig.cache
+C:\Users\IK\source\repos\CualEsMayor\CualEsMayor\obj\Debug\net8.0\ref\CualEsMayor.dll

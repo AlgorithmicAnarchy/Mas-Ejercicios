@@ -1,0 +1,14 @@
+C:\Users\IK\source\repos\EntradaDiscoteca\EntradaDiscoteca\bin\Debug\net8.0\EntradaDiscoteca.exe
+C:\Users\IK\source\repos\EntradaDiscoteca\EntradaDiscoteca\bin\Debug\net8.0\EntradaDiscoteca.deps.json
+C:\Users\IK\source\repos\EntradaDiscoteca\EntradaDiscoteca\bin\Debug\net8.0\EntradaDiscoteca.runtimeconfig.json
+C:\Users\IK\source\repos\EntradaDiscoteca\EntradaDiscoteca\bin\Debug\net8.0\EntradaDiscoteca.dll
+C:\Users\IK\source\repos\EntradaDiscoteca\EntradaDiscoteca\bin\Debug\net8.0\EntradaDiscoteca.pdb
+C:\Users\IK\source\repos\EntradaDiscoteca\EntradaDiscoteca\obj\Debug\net8.0\EntradaDiscoteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\source\repos\EntradaDiscoteca\EntradaDiscoteca\obj\Debug\net8.0\EntradaDiscoteca.AssemblyInfoInputs.cache
+C:\Users\IK\source\repos\EntradaDiscoteca\EntradaDiscoteca\obj\Debug\net8.0\EntradaDiscoteca.AssemblyInfo.cs
+C:\Users\IK\source\repos\EntradaDiscoteca\EntradaDiscoteca\obj\Debug\net8.0\EntradaDiscoteca.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\EntradaDiscoteca\EntradaDiscoteca\obj\Debug\net8.0\EntradaDiscoteca.dll
+C:\Users\IK\source\repos\EntradaDiscoteca\EntradaDiscoteca\obj\Debug\net8.0\refint\EntradaDiscoteca.dll
+C:\Users\IK\source\repos\EntradaDiscoteca\EntradaDiscoteca\obj\Debug\net8.0\EntradaDiscoteca.pdb
+C:\Users\IK\source\repos\EntradaDiscoteca\EntradaDiscoteca\obj\Debug\net8.0\EntradaDiscoteca.genruntimeconfig.cache
+C:\Users\IK\source\repos\EntradaDiscoteca\EntradaDiscoteca\obj\Debug\net8.0\ref\EntradaDiscoteca.dll

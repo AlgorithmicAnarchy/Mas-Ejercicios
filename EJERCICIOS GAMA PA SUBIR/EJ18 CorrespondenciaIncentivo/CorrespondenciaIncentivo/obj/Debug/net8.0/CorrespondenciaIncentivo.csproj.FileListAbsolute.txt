@@ -1,0 +1,14 @@
+C:\Users\IK\source\repos\CorrespondenciaIncentivo\CorrespondenciaIncentivo\bin\Debug\net8.0\CorrespondenciaIncentivo.exe
+C:\Users\IK\source\repos\CorrespondenciaIncentivo\CorrespondenciaIncentivo\bin\Debug\net8.0\CorrespondenciaIncentivo.deps.json
+C:\Users\IK\source\repos\CorrespondenciaIncentivo\CorrespondenciaIncentivo\bin\Debug\net8.0\CorrespondenciaIncentivo.runtimeconfig.json
+C:\Users\IK\source\repos\CorrespondenciaIncentivo\CorrespondenciaIncentivo\bin\Debug\net8.0\CorrespondenciaIncentivo.dll
+C:\Users\IK\source\repos\CorrespondenciaIncentivo\CorrespondenciaIncentivo\bin\Debug\net8.0\CorrespondenciaIncentivo.pdb
+C:\Users\IK\source\repos\CorrespondenciaIncentivo\CorrespondenciaIncentivo\obj\Debug\net8.0\CorrespondenciaIncentivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\source\repos\CorrespondenciaIncentivo\CorrespondenciaIncentivo\obj\Debug\net8.0\CorrespondenciaIncentivo.AssemblyInfoInputs.cache
+C:\Users\IK\source\repos\CorrespondenciaIncentivo\CorrespondenciaIncentivo\obj\Debug\net8.0\CorrespondenciaIncentivo.AssemblyInfo.cs
+C:\Users\IK\source\repos\CorrespondenciaIncentivo\CorrespondenciaIncentivo\obj\Debug\net8.0\CorrespondenciaIncentivo.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\CorrespondenciaIncentivo\CorrespondenciaIncentivo\obj\Debug\net8.0\CorrespondenciaIncentivo.dll
+C:\Users\IK\source\repos\CorrespondenciaIncentivo\CorrespondenciaIncentivo\obj\Debug\net8.0\refint\CorrespondenciaIncentivo.dll
+C:\Users\IK\source\repos\CorrespondenciaIncentivo\CorrespondenciaIncentivo\obj\Debug\net8.0\CorrespondenciaIncentivo.pdb
+C:\Users\IK\source\repos\CorrespondenciaIncentivo\CorrespondenciaIncentivo\obj\Debug\net8.0\CorrespondenciaIncentivo.genruntimeconfig.cache
+C:\Users\IK\source\repos\CorrespondenciaIncentivo\CorrespondenciaIncentivo\obj\Debug\net8.0\ref\CorrespondenciaIncentivo.dll

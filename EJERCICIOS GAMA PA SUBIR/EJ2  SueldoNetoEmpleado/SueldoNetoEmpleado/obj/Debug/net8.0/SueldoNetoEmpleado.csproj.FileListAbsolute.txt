@@ -1,0 +1,14 @@
+C:\Users\IK\source\repos\SueldoNetoEmpleado\SueldoNetoEmpleado\bin\Debug\net8.0\SueldoNetoEmpleado.exe
+C:\Users\IK\source\repos\SueldoNetoEmpleado\SueldoNetoEmpleado\bin\Debug\net8.0\SueldoNetoEmpleado.deps.json
+C:\Users\IK\source\repos\SueldoNetoEmpleado\SueldoNetoEmpleado\bin\Debug\net8.0\SueldoNetoEmpleado.runtimeconfig.json
+C:\Users\IK\source\repos\SueldoNetoEmpleado\SueldoNetoEmpleado\bin\Debug\net8.0\SueldoNetoEmpleado.dll
+C:\Users\IK\source\repos\SueldoNetoEmpleado\SueldoNetoEmpleado\bin\Debug\net8.0\SueldoNetoEmpleado.pdb
+C:\Users\IK\source\repos\SueldoNetoEmpleado\SueldoNetoEmpleado\obj\Debug\net8.0\SueldoNetoEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\source\repos\SueldoNetoEmpleado\SueldoNetoEmpleado\obj\Debug\net8.0\SueldoNetoEmpleado.AssemblyInfoInputs.cache
+C:\Users\IK\source\repos\SueldoNetoEmpleado\SueldoNetoEmpleado\obj\Debug\net8.0\SueldoNetoEmpleado.AssemblyInfo.cs
+C:\Users\IK\source\repos\SueldoNetoEmpleado\SueldoNetoEmpleado\obj\Debug\net8.0\SueldoNetoEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\SueldoNetoEmpleado\SueldoNetoEmpleado\obj\Debug\net8.0\SueldoNetoEmpleado.dll
+C:\Users\IK\source\repos\SueldoNetoEmpleado\SueldoNetoEmpleado\obj\Debug\net8.0\refint\SueldoNetoEmpleado.dll
+C:\Users\IK\source\repos\SueldoNetoEmpleado\SueldoNetoEmpleado\obj\Debug\net8.0\SueldoNetoEmpleado.pdb
+C:\Users\IK\source\repos\SueldoNetoEmpleado\SueldoNetoEmpleado\obj\Debug\net8.0\SueldoNetoEmpleado.genruntimeconfig.cache
+C:\Users\IK\source\repos\SueldoNetoEmpleado\SueldoNetoEmpleado\obj\Debug\net8.0\ref\SueldoNetoEmpleado.dll

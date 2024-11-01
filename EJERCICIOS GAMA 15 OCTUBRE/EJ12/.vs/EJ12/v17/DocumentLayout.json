@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IK\\Documents\\EJERCICIOS GAMA 15 OCTUBRE\\EJ12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1E8BB-A605-4981-97F4-80F3D5D66716}|EJ12\\EJ12.csproj|c:\\users\\ik\\documents\\ejercicios gama 15 octubre\\ej12\\ej12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1E8BB-A605-4981-97F4-80F3D5D66716}|EJ12\\EJ12.csproj|solutionrelative:ej12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IK\\Documents\\EJERCICIOS GAMA 15 OCTUBRE\\EJ12\\EJ12\\Program.cs",
+              "RelativeDocumentMoniker": "EJ12\\Program.cs",
+              "ToolTip": "C:\\Users\\IK\\Documents\\EJERCICIOS GAMA 15 OCTUBRE\\EJ12\\EJ12\\Program.cs",
+              "RelativeToolTip": "EJ12\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:22:13.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

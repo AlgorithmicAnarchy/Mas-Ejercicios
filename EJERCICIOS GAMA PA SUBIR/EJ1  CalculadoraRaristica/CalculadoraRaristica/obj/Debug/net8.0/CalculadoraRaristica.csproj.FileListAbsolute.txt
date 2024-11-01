@@ -1,0 +1,14 @@
+C:\Users\IK\source\repos\CalculadoraRaristica\CalculadoraRaristica\bin\Debug\net8.0\CalculadoraRaristica.exe
+C:\Users\IK\source\repos\CalculadoraRaristica\CalculadoraRaristica\bin\Debug\net8.0\CalculadoraRaristica.deps.json
+C:\Users\IK\source\repos\CalculadoraRaristica\CalculadoraRaristica\bin\Debug\net8.0\CalculadoraRaristica.runtimeconfig.json
+C:\Users\IK\source\repos\CalculadoraRaristica\CalculadoraRaristica\bin\Debug\net8.0\CalculadoraRaristica.dll
+C:\Users\IK\source\repos\CalculadoraRaristica\CalculadoraRaristica\bin\Debug\net8.0\CalculadoraRaristica.pdb
+C:\Users\IK\source\repos\CalculadoraRaristica\CalculadoraRaristica\obj\Debug\net8.0\CalculadoraRaristica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\source\repos\CalculadoraRaristica\CalculadoraRaristica\obj\Debug\net8.0\CalculadoraRaristica.AssemblyInfoInputs.cache
+C:\Users\IK\source\repos\CalculadoraRaristica\CalculadoraRaristica\obj\Debug\net8.0\CalculadoraRaristica.AssemblyInfo.cs
+C:\Users\IK\source\repos\CalculadoraRaristica\CalculadoraRaristica\obj\Debug\net8.0\CalculadoraRaristica.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\CalculadoraRaristica\CalculadoraRaristica\obj\Debug\net8.0\CalculadoraRaristica.dll
+C:\Users\IK\source\repos\CalculadoraRaristica\CalculadoraRaristica\obj\Debug\net8.0\refint\CalculadoraRaristica.dll
+C:\Users\IK\source\repos\CalculadoraRaristica\CalculadoraRaristica\obj\Debug\net8.0\CalculadoraRaristica.pdb
+C:\Users\IK\source\repos\CalculadoraRaristica\CalculadoraRaristica\obj\Debug\net8.0\CalculadoraRaristica.genruntimeconfig.cache
+C:\Users\IK\source\repos\CalculadoraRaristica\CalculadoraRaristica\obj\Debug\net8.0\ref\CalculadoraRaristica.dll

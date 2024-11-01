@@ -1,0 +1,14 @@
+C:\Users\IK\source\repos\CalcularImporte\CalcularImporte\bin\Debug\net8.0\CalcularImporte.exe
+C:\Users\IK\source\repos\CalcularImporte\CalcularImporte\bin\Debug\net8.0\CalcularImporte.deps.json
+C:\Users\IK\source\repos\CalcularImporte\CalcularImporte\bin\Debug\net8.0\CalcularImporte.runtimeconfig.json
+C:\Users\IK\source\repos\CalcularImporte\CalcularImporte\bin\Debug\net8.0\CalcularImporte.dll
+C:\Users\IK\source\repos\CalcularImporte\CalcularImporte\bin\Debug\net8.0\CalcularImporte.pdb
+C:\Users\IK\source\repos\CalcularImporte\CalcularImporte\obj\Debug\net8.0\CalcularImporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\source\repos\CalcularImporte\CalcularImporte\obj\Debug\net8.0\CalcularImporte.AssemblyInfoInputs.cache
+C:\Users\IK\source\repos\CalcularImporte\CalcularImporte\obj\Debug\net8.0\CalcularImporte.AssemblyInfo.cs
+C:\Users\IK\source\repos\CalcularImporte\CalcularImporte\obj\Debug\net8.0\CalcularImporte.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\CalcularImporte\CalcularImporte\obj\Debug\net8.0\CalcularImporte.dll
+C:\Users\IK\source\repos\CalcularImporte\CalcularImporte\obj\Debug\net8.0\refint\CalcularImporte.dll
+C:\Users\IK\source\repos\CalcularImporte\CalcularImporte\obj\Debug\net8.0\CalcularImporte.pdb
+C:\Users\IK\source\repos\CalcularImporte\CalcularImporte\obj\Debug\net8.0\CalcularImporte.genruntimeconfig.cache
+C:\Users\IK\source\repos\CalcularImporte\CalcularImporte\obj\Debug\net8.0\ref\CalcularImporte.dll

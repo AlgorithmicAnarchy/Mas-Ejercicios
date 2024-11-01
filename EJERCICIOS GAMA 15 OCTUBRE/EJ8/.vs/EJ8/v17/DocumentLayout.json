@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IK\\source\\repos\\EJ8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D458B276-0EB6-44A3-A893-2BD50EFD6D4C}|EJ8\\EJ8.csproj|c:\\users\\ik\\source\\repos\\ej8\\ej8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D458B276-0EB6-44A3-A893-2BD50EFD6D4C}|EJ8\\EJ8.csproj|solutionrelative:ej8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IK\\source\\repos\\EJ8\\EJ8\\Program.cs",
+              "RelativeDocumentMoniker": "EJ8\\Program.cs",
+              "ToolTip": "C:\\Users\\IK\\source\\repos\\EJ8\\EJ8\\Program.cs",
+              "RelativeToolTip": "EJ8\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:41:54.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

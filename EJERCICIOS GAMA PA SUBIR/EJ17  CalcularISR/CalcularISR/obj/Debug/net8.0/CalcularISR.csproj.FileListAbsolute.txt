@@ -1,0 +1,14 @@
+C:\Users\IK\source\repos\CalcularISR\CalcularISR\bin\Debug\net8.0\CalcularISR.exe
+C:\Users\IK\source\repos\CalcularISR\CalcularISR\bin\Debug\net8.0\CalcularISR.deps.json
+C:\Users\IK\source\repos\CalcularISR\CalcularISR\bin\Debug\net8.0\CalcularISR.runtimeconfig.json
+C:\Users\IK\source\repos\CalcularISR\CalcularISR\bin\Debug\net8.0\CalcularISR.dll
+C:\Users\IK\source\repos\CalcularISR\CalcularISR\bin\Debug\net8.0\CalcularISR.pdb
+C:\Users\IK\source\repos\CalcularISR\CalcularISR\obj\Debug\net8.0\CalcularISR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\source\repos\CalcularISR\CalcularISR\obj\Debug\net8.0\CalcularISR.AssemblyInfoInputs.cache
+C:\Users\IK\source\repos\CalcularISR\CalcularISR\obj\Debug\net8.0\CalcularISR.AssemblyInfo.cs
+C:\Users\IK\source\repos\CalcularISR\CalcularISR\obj\Debug\net8.0\CalcularISR.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\CalcularISR\CalcularISR\obj\Debug\net8.0\CalcularISR.dll
+C:\Users\IK\source\repos\CalcularISR\CalcularISR\obj\Debug\net8.0\refint\CalcularISR.dll
+C:\Users\IK\source\repos\CalcularISR\CalcularISR\obj\Debug\net8.0\CalcularISR.pdb
+C:\Users\IK\source\repos\CalcularISR\CalcularISR\obj\Debug\net8.0\CalcularISR.genruntimeconfig.cache
+C:\Users\IK\source\repos\CalcularISR\CalcularISR\obj\Debug\net8.0\ref\CalcularISR.dll

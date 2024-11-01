@@ -1,0 +1,14 @@
+C:\Users\IK\source\repos\ArleniGamaEj7\ArleniGamaEj7\bin\Debug\net8.0\ArleniGamaEj7.exe
+C:\Users\IK\source\repos\ArleniGamaEj7\ArleniGamaEj7\bin\Debug\net8.0\ArleniGamaEj7.deps.json
+C:\Users\IK\source\repos\ArleniGamaEj7\ArleniGamaEj7\bin\Debug\net8.0\ArleniGamaEj7.runtimeconfig.json
+C:\Users\IK\source\repos\ArleniGamaEj7\ArleniGamaEj7\bin\Debug\net8.0\ArleniGamaEj7.dll
+C:\Users\IK\source\repos\ArleniGamaEj7\ArleniGamaEj7\bin\Debug\net8.0\ArleniGamaEj7.pdb
+C:\Users\IK\source\repos\ArleniGamaEj7\ArleniGamaEj7\obj\Debug\net8.0\ArleniGamaEj7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\source\repos\ArleniGamaEj7\ArleniGamaEj7\obj\Debug\net8.0\ArleniGamaEj7.AssemblyInfoInputs.cache
+C:\Users\IK\source\repos\ArleniGamaEj7\ArleniGamaEj7\obj\Debug\net8.0\ArleniGamaEj7.AssemblyInfo.cs
+C:\Users\IK\source\repos\ArleniGamaEj7\ArleniGamaEj7\obj\Debug\net8.0\ArleniGamaEj7.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\ArleniGamaEj7\ArleniGamaEj7\obj\Debug\net8.0\ArleniGamaEj7.dll
+C:\Users\IK\source\repos\ArleniGamaEj7\ArleniGamaEj7\obj\Debug\net8.0\refint\ArleniGamaEj7.dll
+C:\Users\IK\source\repos\ArleniGamaEj7\ArleniGamaEj7\obj\Debug\net8.0\ArleniGamaEj7.pdb
+C:\Users\IK\source\repos\ArleniGamaEj7\ArleniGamaEj7\obj\Debug\net8.0\ArleniGamaEj7.genruntimeconfig.cache
+C:\Users\IK\source\repos\ArleniGamaEj7\ArleniGamaEj7\obj\Debug\net8.0\ref\ArleniGamaEj7.dll

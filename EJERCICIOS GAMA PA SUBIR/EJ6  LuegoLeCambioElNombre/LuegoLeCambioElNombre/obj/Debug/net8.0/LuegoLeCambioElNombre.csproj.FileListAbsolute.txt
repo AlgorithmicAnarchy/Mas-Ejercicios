@@ -1,0 +1,14 @@
+C:\Users\IK\source\repos\LuegoLeCambioElNombre\LuegoLeCambioElNombre\bin\Debug\net8.0\LuegoLeCambioElNombre.exe
+C:\Users\IK\source\repos\LuegoLeCambioElNombre\LuegoLeCambioElNombre\bin\Debug\net8.0\LuegoLeCambioElNombre.deps.json
+C:\Users\IK\source\repos\LuegoLeCambioElNombre\LuegoLeCambioElNombre\bin\Debug\net8.0\LuegoLeCambioElNombre.runtimeconfig.json
+C:\Users\IK\source\repos\LuegoLeCambioElNombre\LuegoLeCambioElNombre\bin\Debug\net8.0\LuegoLeCambioElNombre.dll
+C:\Users\IK\source\repos\LuegoLeCambioElNombre\LuegoLeCambioElNombre\bin\Debug\net8.0\LuegoLeCambioElNombre.pdb
+C:\Users\IK\source\repos\LuegoLeCambioElNombre\LuegoLeCambioElNombre\obj\Debug\net8.0\LuegoLeCambioElNombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\source\repos\LuegoLeCambioElNombre\LuegoLeCambioElNombre\obj\Debug\net8.0\LuegoLeCambioElNombre.AssemblyInfoInputs.cache
+C:\Users\IK\source\repos\LuegoLeCambioElNombre\LuegoLeCambioElNombre\obj\Debug\net8.0\LuegoLeCambioElNombre.AssemblyInfo.cs
+C:\Users\IK\source\repos\LuegoLeCambioElNombre\LuegoLeCambioElNombre\obj\Debug\net8.0\LuegoLeCambioElNombre.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\LuegoLeCambioElNombre\LuegoLeCambioElNombre\obj\Debug\net8.0\LuegoLeCambioElNombre.dll
+C:\Users\IK\source\repos\LuegoLeCambioElNombre\LuegoLeCambioElNombre\obj\Debug\net8.0\refint\LuegoLeCambioElNombre.dll
+C:\Users\IK\source\repos\LuegoLeCambioElNombre\LuegoLeCambioElNombre\obj\Debug\net8.0\LuegoLeCambioElNombre.pdb
+C:\Users\IK\source\repos\LuegoLeCambioElNombre\LuegoLeCambioElNombre\obj\Debug\net8.0\LuegoLeCambioElNombre.genruntimeconfig.cache
+C:\Users\IK\source\repos\LuegoLeCambioElNombre\LuegoLeCambioElNombre\obj\Debug\net8.0\ref\LuegoLeCambioElNombre.dll

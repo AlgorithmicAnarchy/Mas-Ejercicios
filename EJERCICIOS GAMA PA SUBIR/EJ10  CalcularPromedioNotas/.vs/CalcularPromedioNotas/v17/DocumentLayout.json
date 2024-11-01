@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IK\\source\\repos\\CalcularPromedioNotas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DE8542-B2F4-48EF-BEC2-0354C303DD99}|CalcularPromedioNotas\\CalcularPromedioNotas.csproj|c:\\users\\ik\\source\\repos\\calcularpromedionotas\\calcularpromedionotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DE8542-B2F4-48EF-BEC2-0354C303DD99}|CalcularPromedioNotas\\CalcularPromedioNotas.csproj|solutionrelative:calcularpromedionotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IK\\source\\repos\\CalcularPromedioNotas\\CalcularPromedioNotas\\Program.cs",
+              "RelativeDocumentMoniker": "CalcularPromedioNotas\\Program.cs",
+              "ToolTip": "C:\\Users\\IK\\source\\repos\\CalcularPromedioNotas\\CalcularPromedioNotas\\Program.cs",
+              "RelativeToolTip": "CalcularPromedioNotas\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:34:34.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

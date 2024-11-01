@@ -1,0 +1,14 @@
+C:\Users\IK\source\repos\DestacacionEstudiante\DestacacionEstudiante\bin\Debug\net8.0\DestacacionEstudiante.exe
+C:\Users\IK\source\repos\DestacacionEstudiante\DestacacionEstudiante\bin\Debug\net8.0\DestacacionEstudiante.deps.json
+C:\Users\IK\source\repos\DestacacionEstudiante\DestacacionEstudiante\bin\Debug\net8.0\DestacacionEstudiante.runtimeconfig.json
+C:\Users\IK\source\repos\DestacacionEstudiante\DestacacionEstudiante\bin\Debug\net8.0\DestacacionEstudiante.dll
+C:\Users\IK\source\repos\DestacacionEstudiante\DestacacionEstudiante\bin\Debug\net8.0\DestacacionEstudiante.pdb
+C:\Users\IK\source\repos\DestacacionEstudiante\DestacacionEstudiante\obj\Debug\net8.0\DestacacionEstudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\source\repos\DestacacionEstudiante\DestacacionEstudiante\obj\Debug\net8.0\DestacacionEstudiante.AssemblyInfoInputs.cache
+C:\Users\IK\source\repos\DestacacionEstudiante\DestacacionEstudiante\obj\Debug\net8.0\DestacacionEstudiante.AssemblyInfo.cs
+C:\Users\IK\source\repos\DestacacionEstudiante\DestacacionEstudiante\obj\Debug\net8.0\DestacacionEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\DestacacionEstudiante\DestacacionEstudiante\obj\Debug\net8.0\DestacacionEstudiante.dll
+C:\Users\IK\source\repos\DestacacionEstudiante\DestacacionEstudiante\obj\Debug\net8.0\refint\DestacacionEstudiante.dll
+C:\Users\IK\source\repos\DestacacionEstudiante\DestacacionEstudiante\obj\Debug\net8.0\DestacacionEstudiante.pdb
+C:\Users\IK\source\repos\DestacacionEstudiante\DestacacionEstudiante\obj\Debug\net8.0\DestacacionEstudiante.genruntimeconfig.cache
+C:\Users\IK\source\repos\DestacacionEstudiante\DestacacionEstudiante\obj\Debug\net8.0\ref\DestacacionEstudiante.dll

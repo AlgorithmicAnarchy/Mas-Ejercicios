@@ -1,0 +1,14 @@
+C:\Users\IK\source\repos\AplicarDecuentoArticulo\AplicarDecuentoArticulo\bin\Debug\net8.0\AplicarDecuentoArticulo.exe
+C:\Users\IK\source\repos\AplicarDecuentoArticulo\AplicarDecuentoArticulo\bin\Debug\net8.0\AplicarDecuentoArticulo.deps.json
+C:\Users\IK\source\repos\AplicarDecuentoArticulo\AplicarDecuentoArticulo\bin\Debug\net8.0\AplicarDecuentoArticulo.runtimeconfig.json
+C:\Users\IK\source\repos\AplicarDecuentoArticulo\AplicarDecuentoArticulo\bin\Debug\net8.0\AplicarDecuentoArticulo.dll
+C:\Users\IK\source\repos\AplicarDecuentoArticulo\AplicarDecuentoArticulo\bin\Debug\net8.0\AplicarDecuentoArticulo.pdb
+C:\Users\IK\source\repos\AplicarDecuentoArticulo\AplicarDecuentoArticulo\obj\Debug\net8.0\AplicarDecuentoArticulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\source\repos\AplicarDecuentoArticulo\AplicarDecuentoArticulo\obj\Debug\net8.0\AplicarDecuentoArticulo.AssemblyInfoInputs.cache
+C:\Users\IK\source\repos\AplicarDecuentoArticulo\AplicarDecuentoArticulo\obj\Debug\net8.0\AplicarDecuentoArticulo.AssemblyInfo.cs
+C:\Users\IK\source\repos\AplicarDecuentoArticulo\AplicarDecuentoArticulo\obj\Debug\net8.0\AplicarDecuentoArticulo.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\AplicarDecuentoArticulo\AplicarDecuentoArticulo\obj\Debug\net8.0\AplicarDecuentoArticulo.dll
+C:\Users\IK\source\repos\AplicarDecuentoArticulo\AplicarDecuentoArticulo\obj\Debug\net8.0\refint\AplicarDecuentoArticulo.dll
+C:\Users\IK\source\repos\AplicarDecuentoArticulo\AplicarDecuentoArticulo\obj\Debug\net8.0\AplicarDecuentoArticulo.pdb
+C:\Users\IK\source\repos\AplicarDecuentoArticulo\AplicarDecuentoArticulo\obj\Debug\net8.0\AplicarDecuentoArticulo.genruntimeconfig.cache
+C:\Users\IK\source\repos\AplicarDecuentoArticulo\AplicarDecuentoArticulo\obj\Debug\net8.0\ref\AplicarDecuentoArticulo.dll

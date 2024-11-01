@@ -1,0 +1,14 @@
+C:\Users\IK\source\repos\EJ9\EJ9\bin\Debug\net8.0\EJ9.exe
+C:\Users\IK\source\repos\EJ9\EJ9\bin\Debug\net8.0\EJ9.deps.json
+C:\Users\IK\source\repos\EJ9\EJ9\bin\Debug\net8.0\EJ9.runtimeconfig.json
+C:\Users\IK\source\repos\EJ9\EJ9\bin\Debug\net8.0\EJ9.dll
+C:\Users\IK\source\repos\EJ9\EJ9\bin\Debug\net8.0\EJ9.pdb
+C:\Users\IK\source\repos\EJ9\EJ9\obj\Debug\net8.0\EJ9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\source\repos\EJ9\EJ9\obj\Debug\net8.0\EJ9.AssemblyInfoInputs.cache
+C:\Users\IK\source\repos\EJ9\EJ9\obj\Debug\net8.0\EJ9.AssemblyInfo.cs
+C:\Users\IK\source\repos\EJ9\EJ9\obj\Debug\net8.0\EJ9.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\EJ9\EJ9\obj\Debug\net8.0\EJ9.dll
+C:\Users\IK\source\repos\EJ9\EJ9\obj\Debug\net8.0\refint\EJ9.dll
+C:\Users\IK\source\repos\EJ9\EJ9\obj\Debug\net8.0\EJ9.pdb
+C:\Users\IK\source\repos\EJ9\EJ9\obj\Debug\net8.0\EJ9.genruntimeconfig.cache
+C:\Users\IK\source\repos\EJ9\EJ9\obj\Debug\net8.0\ref\EJ9.dll

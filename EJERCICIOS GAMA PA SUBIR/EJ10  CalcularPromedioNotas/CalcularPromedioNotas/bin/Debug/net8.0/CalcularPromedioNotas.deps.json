@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalcularPromedioNotas/1.0.0": {
+        "runtime": {
+          "CalcularPromedioNotas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalcularPromedioNotas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
